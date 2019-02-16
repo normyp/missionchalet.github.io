@@ -128,7 +128,7 @@ Prayed for a lady whose brother was diagnosed with cancer and he’s been given 
 
 Prayed for C for her health.
 
-Man from Dorset [] with cancer - [prayed for] healing. C with cancer from Bournemouth - to be clear completely. J with cystic fibrosis - healing.
+Man from Dorset [...] with cancer - [prayed for] healing. C with cancer from Bournemouth - to be clear completely. J with cystic fibrosis - healing.
 
 Cold and wet - need more stars - photos in stable popular!
 
