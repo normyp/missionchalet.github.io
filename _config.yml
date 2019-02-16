@@ -19,6 +19,5 @@ defaults:
       share: false
       related: false
       feed: false
-site:
-  name: Winchester Christmas Market Mission Chalet
+title: "Winchester Christmas Market Mission Chalet"
 
