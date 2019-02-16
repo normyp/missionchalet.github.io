@@ -18,4 +18,5 @@ defaults:
       comments: false
       share: false
       related: false
+      feed: false
 
